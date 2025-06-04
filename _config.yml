@@ -1,0 +1,45 @@
+# Site Settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+locale          : "ru-RU"
+title           : "Николай Ермолович"
+description     : >-
+  Ресурс для поиска новых возможностей.
+  Не одним пайплайном жив человек.
+  Не только технологические процессы делают жизнь полной.
+  ;-)
+subtitle        : "Не только технологические процессы делают жизнь полной"
+title_separator : ":"
+name            : "Николай Ермолович"
+encoding        : "UTF-8"
+github          : [metadata] # Added this to avoid the "No GitHub API authentication could be found. Some fields may be missing or have incorrect data." warning when starting Jekyll.
+repository      : "rupreht/rupreht.github.io"
+
+# Conversion
+markdown          : kramdown
+highlighter       : rouge
+
+excerpt_separator : ""
+
+timezone          : "Asia/Yekaterinburg"
+
+# Markdown Processing
+kramdown:
+  auto_ids           : true
+  enable_coderay     : false
+  entity_output      : as_char
+  footnote_nr        : 1
+  hard_wrap          : false
+  input              : GFM
+  smart_quotes       : lsquo,rsquo,ldquo,rdquo
+  syntax_highlighter : rouge
+  toc_levels         : 1..3
+
+# sass:
+#   style: compressed
+
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
