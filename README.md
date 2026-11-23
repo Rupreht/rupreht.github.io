@@ -2,7 +2,7 @@
 
 ## Senior DevOps Engineer (Kubernetes, Platform, Observability)
 
-Екатеринбург · удалённо / гибрид · командировки
+Екатеринбург · на месте работодателя / гибрид / удалённо · командировки
 
 Email: [git@rupreht.ru](mailto:git@rupreht.ru) · Телефон: [+7 922 298-27-58](tel:+79222982758) · [Telegram](https://t.me/mrRuprecht) · [GitHub](https://github.com/rupreht)
 
