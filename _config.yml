@@ -5,16 +5,13 @@
 # in the templates via {{ site.myvariable }}.
 locale          : "ru"
 lang            : "ru"
-title           : "Николай Ермолович"
-description     : >-
-  Ресурс для поиска новых возможностей.
-  Не одним пайплайном жив человек.
-  Не только технологические процессы делают жизнь полной.
-  ;-)
+title           : "Ермолович Николай Евгеньевич"
+description     : "Senior DevOps Engineer: Kubernetes, Platform, Observability. 20 лет в IT, Екатеринбург, удалённо."
 subtitle        : "Не только технологические процессы делают жизнь полной"
 title_separator : ":"
 baseurl         : ""
 url             : "https://rupreht.github.io"
+exclude         : ["AGENTS.md", "bin"]
 name            : "Николай Ермолович"
 encoding        : "UTF-8"
 github          : [metadata] # Added this to avoid the "No GitHub API authentication could be found. Some fields may be missing or have incorrect data." warning when starting Jekyll.
