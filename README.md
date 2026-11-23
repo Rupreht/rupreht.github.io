@@ -8,7 +8,7 @@ Email: [git@rupreht.ru](mailto:git@rupreht.ru) · Телефон: [+7 922 298-27
 
 Ожидания: 350 000 - 450 000 ₽ · полная занятость · открыт к предложениям
 
-**Машиночитаемая версия**: [README.md](/README.md) (text/markdown, без HTML).
+**Машиночитаемая версия**: [README.md](https://raw.githubusercontent.com/rupreht/rupreht.github.io/refs/heads/master/README.md) (text/markdown, без HTML).
 
 ## Ключевые результаты
 
